@@ -14,7 +14,7 @@
 2. 基于谷歌目标检测API ：[Google's TensorFlow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection)
 3. 使用[ssd_mobilenet_v1_coco](http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_coco_2018_01_28.tar.gz)作为预训练模型
 4. 数据集：[Town Centre Dataset](http://www.robots.ox.ac.uk/ActiveVision/Research/Projects/2009bbenfold_headpose/project.html#datasets)
-5. 训练使用显卡GTX 2080 Ti，作为GPU加速训练 ，训练步数：50000
+5. 训练使用显卡RTX 2080 Ti，GPU加速训练 ，训练步数：50000
 
 ## 文件说明
 
